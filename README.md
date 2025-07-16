@@ -37,6 +37,8 @@ Emotion-Detection/
 
 ---
 
+Download ANACONDA 
+
 ## 🚀 How to Run
 
 ### 1. Clone the repository
