@@ -28,12 +28,12 @@ Real-time facial emotion detection using deep learning and computer vision. This
 
 ## 📁 Project Structure
 Emotion-Detection/
-├── test.py                                         # Main script for webcam emotion detection
-├── emotion_model.h5                                # Pre-trained Mini-XCEPTION model
-├── haarcascade_frontalface_default.xml             # Face detection Haar cascade
-├── requirements.txt                                # Python dependencies
-├── Emotion_Detection_Project_Report_Digvijoy.docx  # Project report
-└── README.md                                       # Project documentation (this file)
+─ test.py                                         # Main script for webcam emotion detection
+─ emotion_model.h5                                # Pre-trained Mini-XCEPTION model
+─ haarcascade_frontalface_default.xml             # Face detection Haar cascade
+─ requirements.txt                                # Python dependencies
+─ Emotion_Detection_Project_Report_Digvijoy.docx  # Project report
+─ README.md                                       # Project documentation (this file)
 
 ---
 
