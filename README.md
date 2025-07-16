@@ -45,16 +45,18 @@ Download ANACONDA
 ## 1. Clone the repository
 
 
-✅ cd Emotion-Detection
+1. ✅ cd Emotion-Detection
 
 2. Create and activate virtual environment (recommended)
 conda create -n emotion-env python=3.10
+
 ✅ conda activate emotion-env
 
 3. Install dependencies
 pip install -r requirements.txt
 
 4. Run the application
+
 ✅ python test.py
 
 	•	Webcam will open and start detecting emotions in real time.
