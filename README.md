@@ -50,9 +50,18 @@ Why it's also an ML (Machine Learning) Project:
 That makes it a proper Machine Learning project too.
 
 
-Download ANACONDA 
+
 
 ## 🚀 How to Run
+
+For MacOS 💻🍎
+cd ~/Emotion-Detection
+source venv/bin/activate
+python3 test.py
+
+
+For Windows 🖥️
+Download ANACONDA 
 
 
 ## 1. Clone the repository
