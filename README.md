@@ -75,11 +75,13 @@ Download ANACONDA
 conda create -n emotion-env python=3.10
 
     ✅ conda activate emotion-env
+   
+    [(emotion-env) D:\Emotion-Detection>]
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-4. Run the application
+5. Run the application
 
     ✅ python test.py
 
