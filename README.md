@@ -69,7 +69,7 @@ Download ANACONDA
 ## 1. Clone the repository
 
 
-1. ✅ cd Emotion-Detection
+1. D: ✅ cd Emotion-Detection
 
 2. Create and activate virtual environment (recommended)
 conda create -n emotion-env python=3.10
