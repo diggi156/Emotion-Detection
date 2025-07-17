@@ -56,7 +56,9 @@ That makes it a proper Machine Learning project too.
 
 For MacOS 💻🍎
 cd ~/Emotion-Detection
+
 source venv/bin/activate
+
 python3 test.py
 
 
