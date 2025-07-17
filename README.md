@@ -37,6 +37,19 @@ Emotion-Detection/
 
 ---
 
+
+
+Why it's an Al Project:
+• Al (Artificial Intelligence) refers to machines mimicking human intelligence.
+• Your system uses a camera to "see" faces and "understand" human emotions — a classic example of computer vision and affective computing, both subfields of Al.
+So yes — this is definitely an Al project.
+
+Why it's also an ML (Machine Learning) Project:
+• You are using a pre-trained deep learning model (CNN) that was trained on the FER-2013 dataset to classify emotions from facial expressions.
+• That model learned patterns in data through training - and you're now using it to make predictions on new inputs.
+That makes it a proper Machine Learning project too.
+
+
 Download ANACONDA 
 
 ## 🚀 How to Run
