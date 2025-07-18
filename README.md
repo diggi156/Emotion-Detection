@@ -55,6 +55,7 @@ That makes it a proper Machine Learning project too.
 ## 🚀 How to Run
 
 For MacOS 💻🍎
+
 cd ~/Emotion-Detection
 
 source venv/bin/activate
